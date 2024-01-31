@@ -7,3 +7,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## 22Th DEC 2023 - 0.0.1
 
 - Initial light theme release
+
+## 31Th JAN 2024 - 0.0.2
+
+- Update bar, Terminal and selectors

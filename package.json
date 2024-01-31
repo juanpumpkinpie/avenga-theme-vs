@@ -2,7 +2,7 @@
   "name": "avenga-theme-vs",
   "displayName": "avenga-theme-vs",
   "description": "Avenga VSCode Light Theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "whitehat4u",
   "engines": {
     "vscode": "^1.85.0"
@@ -13,7 +13,9 @@
   "keywords": [
     "avenga",
     "avenga-theme-vs",
-    "theme",
+    "theme juan",
+    "juanpumpkinpie",
+    "krakow",
     "avenga-color-theme",
     "dark",
     "light",
